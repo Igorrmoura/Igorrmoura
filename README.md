@@ -1,5 +1,5 @@
 # 💫 About Me:
-me chamo Igor, sou estudante de engenharia de software na univ Anhembi Morumbi
+My name is Igor I am a software engineering student at Anhembi Morumbi University
 
 
  # 📊 GitHub Stats:
