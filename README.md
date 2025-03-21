@@ -17,7 +17,7 @@ me chamo Igor, sou estudante de engenharia de software na univ Anhembi Morumbi
 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=java,,html,css,js,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,html,css,js,)](https://skillicons.dev)
 
 ---
 
