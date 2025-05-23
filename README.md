@@ -8,7 +8,7 @@ My name is Igor I am a software engineering student at Anhembi Morumbi Universit
       <img width="439px" src="https://github-readme-streak-stats.herokuapp.com/?user=Igorrmoura&theme=blue_navy&hide_border=true"/>
 </div>
 ## 🌐 Socials:
-<div align="center"> 
+<div> 
   <a href="https://www.instagram.com/igorr_mouraa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/igor-moura-3524002ba/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a> 
    
