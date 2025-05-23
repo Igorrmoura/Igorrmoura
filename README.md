@@ -3,9 +3,9 @@ My name is Igor I am a software engineering student at Anhembi Morumbi Universit
 
 
  # 📊 GitHub Stats:
- <div align="center">
- <img width="400px" src="https://github-readme-stats.vercel.app/api?username=Igorrmoura&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=false"/>
-      <img width="439px" src="https://github-readme-streak-stats.herokuapp.com/?user=Igorrmoura&theme=blue_navy&hide_border=true"/>
+ <div align="left">
+ <img width="410px" src="https://github-readme-stats.vercel.app/api?username=Igorrmoura&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false"/>
+ <img width="410px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Igorrmoura&theme=midnight-purple&hide_border=true&&layout=compact"/>
 </div>
 ## 🌐 Socials:
 <div> 
