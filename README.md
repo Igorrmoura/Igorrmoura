@@ -18,7 +18,7 @@ My name is Igor I am a software engineering student at Anhembi Morumbi Universit
 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=java,html,css,js,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,mysql,html,css,js,)](https://skillicons.dev)
 
 ---
 
